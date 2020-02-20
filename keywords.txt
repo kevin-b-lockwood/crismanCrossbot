@@ -5,9 +5,9 @@ clear-span
 clear span
 span
 canyon
+crisman crossing
 crisman
 crossing
-crisman crossing
 traverse
 river
 stream
